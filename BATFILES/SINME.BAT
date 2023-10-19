@@ -1,0 +1,21 @@
+copy sinbio.bin ending1.bin
+copy sinbio.bin ending2.bin
+copy sinbio.bin ending3.bin
+copy sinbio.bin ending4.bin
+copy sinbio.bin ending5.bin
+copy sinbio.bin ending6.bin
+copy sinbio.bin ending7.bin
+copy sinbio.bin ending8.bin
+copy sinbio.bin ending9.bin
+copy sinbio.bin ending10.bin
+copy sinbio.bin ending11.bin
+copy sinbio.bin ending12.bin
+copy sinbio.bin ending13.bin
+copy sinbio.bin ending14.bin
+copy sinbio.bin ending15.bin
+copy sinbio.bin ending16.bin
+copy sinbio.bin ending17.bin
+copy sinbio.bin ending18.bin
+copy sinbio.bin ending19.bin
+copy sinbio.bin ending20.bin
+

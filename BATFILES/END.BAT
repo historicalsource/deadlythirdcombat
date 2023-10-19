@@ -1,0 +1,21 @@
+copy bi_she.bin ending1.bin
+copy bi_she.bin ending2.bin
+copy bi_she.bin ending3.bin
+copy bi_she.bin ending4.bin
+copy bi_she.bin ending5.bin
+copy bi_she.bin ending6.bin
+copy bi_she.bin ending7.bin
+copy bi_she.bin ending8.bin
+copy bi_she.bin ending9.bin
+copy bi_she.bin ending10.bin
+copy bi_she.bin ending11.bin
+copy bi_she.bin ending12.bin
+copy bi_she.bin ending13.bin
+copy bi_she.bin ending14.bin
+copy bi_she.bin ending15.bin
+copy bi_she.bin ending16.bin
+copy bi_she.bin ending17.bin
+copy bi_she.bin ending18.bin
+copy bi_she.bin ending19.bin
+copy bi_she.bin ending20.bin
+
